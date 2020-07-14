@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Martyn Taylor Gosling",
+      "authorEmail": "martyn@yourparkingspace.co.uk",
+      "authorUrl": "beard.support"
+    }
+  }
+}
